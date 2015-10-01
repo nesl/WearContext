@@ -1,0 +1,6 @@
+[submodule "WearableAmbulation"]
+	path = WearableAmbulation
+	url = git@github.com:nesl/WearableAmbulation.git
+[submodule "AndroidHRMonitor"]
+	path = AndroidHRMonitor
+	url = git@github.com:nesl/AndroidHRMonitor.git
